@@ -1,0 +1,21 @@
+REQ PASSWORD RAR
+HUB : 08179851011 (WhatsApp Only)
+=================================
+Aplikasi Sistem Pakar Diagnosa Penyakit Mata
+
+=====================================================
+PLAYLIST LENGKAP SOURCE CODE : https://bit.ly/3O3eApC
+=====================================================
+## Framework 
+PHP Native
+
+## Requirement
+1. php 7.4
+2. MySQL / MariaDB
+
+Set Database
+konek.php (line 460)
+
+ADMIN
+user : admin
+pass : admin
